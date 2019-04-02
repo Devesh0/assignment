@@ -1,7 +1,7 @@
 # call_distribution_assignment
 
 ## To run the app 
-    1. Run cd my_app.
+    1. Run cd assignment/my_app.
     2. Run pip install -r requirements.txt.
     3. Run python server_call.py.
     
