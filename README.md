@@ -3,4 +3,4 @@
 ## To run the app keep all the files in same folder and run the server_call.py file.
 
     Allocation of server is in main.py file.
-    After server is allocated main.py file functins are called in server_call.py file.
+    After server is allocated main.py file functions are called in server_call.py file.
