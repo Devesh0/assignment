@@ -7,4 +7,4 @@
     
     Allocation of server is in main.py file.
     After server is allocated then main.py file functions are called in server_call.py file
-    to update the server_threshold values accordingly.
+    to update the server_threshold and call_status values accordingly.
